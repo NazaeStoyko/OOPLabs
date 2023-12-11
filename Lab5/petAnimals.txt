@@ -1,0 +1,3 @@
+PetAnimal{id=1, name='Fluffy', species='Cat', breed='Persian', gender='Female', birthDate='01/01/2015', color='White', size=5.2, vaccinationInfo='Up to date'}
+PetAnimal{id=2, name='Buddy', species='Dog', breed='Golden Retriever ', gender='Male', birthDate='05/10/2018', color='Golden', size=25.0, vaccinationInfo='Annual shots'}
+PetAnimal{id=3, name='Tomm', species='Cat', breed=' Retriever', gender='Male', birthDate='11/12/2023', color='Golden', size=24.0, vaccinationInfo=' Annual shots'}
